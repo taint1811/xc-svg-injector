@@ -8,7 +8,6 @@ Functional for SVG injector
 - commander
 - jsdom
 - ws
-- acorn-globals
 
 ## Usage
 
